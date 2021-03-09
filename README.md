@@ -6,6 +6,11 @@ I am Following This learning Track To Become a Data Scientist.
 
 Track-to-Learn-Data-Science
 
+## Course Outline
+<p align="center">
+<img src="Track To Learn Data Science in 30 Days.jpg" width="512px" height="640px" alt="Course Outline">
+</p>
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.

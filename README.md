@@ -20,7 +20,9 @@ These instructions will get you a copy of the project up and running on your loc
 Python For Data Science
 
 ```
-Give examples
+ * Linear Algebra
+ * Calculas
+ * Statistics
 ```
 
 ### Installing
@@ -58,9 +60,7 @@ Give an example
 Explain what these tests test and why
 
 ```
- * Linear Algebra
- * Calculas
- * Statistics
+ *Give Exam
 ```
 
 ## Deployment

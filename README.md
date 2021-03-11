@@ -58,7 +58,9 @@ Give an example
 Explain what these tests test and why
 
 ```
-Give an example
+ * Linear Algebra
+ * Calculas
+ * Statistics
 ```
 
 ## Deployment

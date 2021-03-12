@@ -60,7 +60,7 @@ Give an example
 Explain what these tests test and why
 
 ```
- *Give Exam
+ *Give Examample
 ```
 
 ## Deployment

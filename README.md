@@ -14,9 +14,10 @@ Track-to-Learn-Data-Science
 ## Getting Started
 
 Day_1:
-- [1- An Introduction to Data Science](Day-01_An Introduction To Data Science/1- An Introduction to Data Science.pdf)
-- [2- The Data Science Hierarchy of Needs](2- The Data Science Hierarchy of Needs.pdf)
-- [Aaconda Navigator](https://www.anaconda.com/products/individual)
+```
+- [1- An Introduction to Data Science](https://github.com/ahsanshareef21/Track-to-Learn-Data-Science/blob/main/Day-01_An%20Introduction%20To%20Data%20Science/1-%20An%20Introduction%20to%20Data%20Science.pdf)
+- [2- The Data Science Hierarchy of Needs](https://github.com/ahsanshareef21/Track-to-Learn-Data-Science/blob/main/Day-01_An%20Introduction%20To%20Data%20Science/2-%20The%20Data%20Science%20Hierarchy%20of%20Needs.pdf) 
+```
 
 ### Prerequisites
 

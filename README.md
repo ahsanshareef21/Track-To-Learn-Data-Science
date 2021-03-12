@@ -13,7 +13,8 @@ Track-to-Learn-Data-Science
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Day_1: [1- An Introduction to Data Science](Day-01_An Introduction To Data Science/1- An Introduction to Data Science.pdf)
+       [2- The Data Science Hierarchy of Needs](Day-01_An Introduction To Data Science/2- The Data Science Hierarchy of Needs.pdf))
 
 ### Prerequisites
 

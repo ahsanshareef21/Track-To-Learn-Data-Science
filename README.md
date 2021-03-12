@@ -8,7 +8,7 @@ Track-to-Learn-Data-Science
 
 ## Course Outline
 <p align="center">
-<img src=images/"Track To Learn Data Science in 30 Days.jpg" width="512px" height="640px" alt="Course Outline">
+<img src="images/Track To Learn Data Science in 30 Days.jpg" width="512px" height="640px" alt="Course Outline">
 </p>
 
 ## Getting Started
